@@ -1,8 +1,8 @@
 
-<H3>ENTER YOUR NAME</H3> ANUBHARATHI SS
-<H3>ENTER YOUR REGISTER NO.</H3>212223040017
-<H3>EX. NO.4</H3>
-<H3>DATE:</H3>
+# ENTER YOUR NAME : ANUBHARATHI SS
+# ENTER YOUR REGISTER NO : 212223040017
+# EX. NO.4
+# DATE: 12.10.2024
 <H1 ALIGN =CENTER>Implementation of MLP with Backpropagation for Multiclassification</H1>
 <H3>Aim:</H3>
 To implement a Multilayer Perceptron for Multi classification
@@ -114,7 +114,7 @@ Normalize our dataset.
 
 8. Finally, call the functions confusion_matrix(), and the classification_report() in order to evaluate the performance of our classifier.
 
-<H3>Program:</H3> 
+## Program:
 ```
 import pandas as pd
 from sklearn.model_selection import train_test_split
@@ -155,11 +155,11 @@ print(confusion_matrix(testing_b,predicted_values))
 
 print(classification_report(testing_b,predicted_values))
 ```
-<H3>Output:</H3>
+## Output:
 ![image](https://github.com/user-attachments/assets/44c50103-c6d0-4699-8816-ee5b39562851)
 ![image](https://github.com/user-attachments/assets/ca07de6e-5216-43bc-b0d6-ecc9d1c88c8f)
 ![image](https://github.com/user-attachments/assets/a0eb3dd9-57d7-4008-a985-af0fe821f4a8)
 
 
-<H3>Result:</H3>
+## Result:
 Thus, MLP is implemented for multi-classification using python.
