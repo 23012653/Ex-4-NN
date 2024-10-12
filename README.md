@@ -154,7 +154,6 @@ print(classification_report(y_test, predictions))
 ```
 ## Output:
 ![image](https://github.com/user-attachments/assets/4c04cd19-007c-44a1-9e37-386f2451ef11)
-![image](https://github.com/user-attachments/assets/20db3503-844e-49a6-91af-4b8668702e24)
 
 
 ## Result:
